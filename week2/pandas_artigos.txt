@@ -1,0 +1,8 @@
+Pandas:
+https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
+https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
+https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77
+https://realpython.com/python-pandas-tricks/#5-use-categorical-data-to-save-on-time-and-space
+https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
+https://medium.com/@shakasom/pandas-tutorial-essentials-of-data-science-in-pandas-library-9b0c81dbfcb1
+
